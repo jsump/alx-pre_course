@@ -136,7 +136,7 @@ Commit your changes (message: “Hot fix”) and push to the origin
 Ouf, hot fix is done!
 
 4. Collaboration: be up to date
-mandatory
+
 Score: 100.0% (Checks completed: 100.0%)
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
